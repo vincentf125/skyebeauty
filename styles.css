@@ -34,7 +34,7 @@ a1 {
 
 a2 {
     font-family: "Funnel Sans", serif;
-    font-size: 20px;
+    font-size: 25px;
 }
 
 h6 {
@@ -53,12 +53,15 @@ h2 {
   }
 
 h3 {
-    font-size: 35px;
+    font-family: "Funnel Sans", serif;
+    font-size: 55px;
   }
 
 ol li{
   list-style: none;
-  font-size: 25px;
+  font-family: "Funnel Sans", serif;
+  font-size: 35px;
+}
 }
 
 
@@ -346,11 +349,11 @@ footer {
 }
 
 .responsive-container-block.bigContainer {
-  padding-top: 10px;
+  padding-top: 400px;
   padding-right: 30px;
-  padding-bottom: 10px;
+  padding-bottom: 400px;
   padding-left: 30px;
-  background-image: url("https://workik-widget-assets.s3.amazonaws.com/widget-assets/images/bb29.png");
+  background-image: url("https://images.pexels.com/photos/2457284/pexels-photo-2457284.jpeg");
   background-position-x: initial;
   background-position-y: initial;
   background-size: cover;
@@ -363,10 +366,10 @@ footer {
 }
 
 .responsive-container-block.Container {
-  max-width: 800px;
+  max-width: 1100px;
   flex-direction: column;
   align-items: center;
-  padding-top: 20px;
+  padding-top: 80px;
   padding-right: 20px;
   padding-bottom: 20px;
   padding-left: 20px;
@@ -383,7 +386,7 @@ footer {
 
 .text-blk.heading {
   font-family: "Mrs Saint Delafield", serif;
-  font-size: 45px;
+  font-size: 65px;
   line-height: 45px;
   font-weight: 800;
   margin-top: 0px;
@@ -395,8 +398,8 @@ footer {
 .text-blk.subHeading {
   font-family: "Funnel Sans", serif;
   text-align: center;
-  font-size: 18px;
-  line-height: 26px;
+  font-size: 38px;
+  line-height: 56px;
   margin-top: 0px;
   margin-right: 0px;
   margin-bottom: 60px;
@@ -404,8 +407,8 @@ footer {
 }
 
 .socialIcon {
-  width: 33px;
-  height: 33px;
+  width: 43px;
+  height: 43px;
 }
 
 .social-icons-container {
