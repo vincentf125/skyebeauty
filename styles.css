@@ -49,18 +49,18 @@ p2 {
   
 
 h2 {
-    font-size: 40px;
+    font-size: 3vw;
   }
 
 h3 {
     font-family: "Funnel Sans", serif;
-    font-size: 55px;
+    font-size: 4vw;
   }
 
 ol li{
   list-style: none;
   font-family: "Funnel Sans", serif;
-  font-size: 35px;
+  font-size: 2.8vw;
 }
 }
 
