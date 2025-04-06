@@ -165,7 +165,7 @@ footer {
     font-family: "Mrs Saint Delafield", serif;
     font-size: max(25px, 4.5vw);
     position: absolute;
-    top: 63%;
+    top: 58%;
     left: 50%;
     transform: translate(-50%, -50%);
   }
@@ -175,7 +175,7 @@ footer {
     font-family: "Mrs Saint Delafield", serif;
     font-size: max(90px, 12vw);
     position: absolute;
-    top: 43%;
+    top: 38%;
     left: 50%;
     transform: translate(-50%, -50%);
   }
