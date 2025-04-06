@@ -22,6 +22,10 @@ p {
     font-size: 35px;
   }
 
+h4 {
+    font-family: "Funnel Sans", serif;
+    font-size: max(14px, 2vw);
+}
 h5 {
     font-family: "Mrs Saint Delafield", serif;
     font-size: 50px;
@@ -159,9 +163,9 @@ footer {
   /* Bottom right text */
   .bottom-right {
     font-family: "Mrs Saint Delafield", serif;
-    font-size: max(50px, 5vw);
+    font-size: max(40px, 4.5vw);
     position: absolute;
-    top: 70%;
+    top: 63%;
     left: 50%;
     transform: translate(-50%, -50%);
   }
@@ -171,7 +175,7 @@ footer {
     font-family: "Mrs Saint Delafield", serif;
     font-size: max(90px, 12vw);
     position: absolute;
-    top: 50%;
+    top: 43%;
     left: 50%;
     transform: translate(-50%, -50%);
   }
@@ -348,9 +352,9 @@ footer {
 }
 
 .responsive-container-block.bigContainer {
-  padding-top: 400px;
+  padding-top: 20vh;
   padding-right: 30px;
-  padding-bottom: 400px;
+  padding-bottom: 20vh;
   padding-left: 30px;
   background-image: url("https://images.pexels.com/photos/2457284/pexels-photo-2457284.jpeg");
   background-position-x: initial;
