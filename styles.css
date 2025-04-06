@@ -163,7 +163,7 @@ footer {
   /* Bottom right text */
   .bottom-right {
     font-family: "Mrs Saint Delafield", serif;
-    font-size: max(40px, 4.5vw);
+    font-size: max(25px, 4.5vw);
     position: absolute;
     top: 63%;
     left: 50%;
