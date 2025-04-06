@@ -29,12 +29,12 @@ h5 {
 
 a1 {
     font-family: "Mrs Saint Delafield", serif;
-    font-size: 30px;
+    font-size: max(21px, 2.3vw);
     }
 
 a2 {
     font-family: "Funnel Sans", serif;
-    font-size: 25px;
+    font-size: max(20px, 2.1vw);
 }
 
 h6 {
@@ -54,14 +54,13 @@ h2 {
 
 h3 {
     font-family: "Funnel Sans", serif;
-    font-size: 4vw;
+    font-size: max(38px, 4vw);
   }
 
 ol li{
   list-style: none;
   font-family: "Funnel Sans", serif;
-  font-size: 2.8vw;
-}
+  font-size: max(28px, 3vw)
 }
 
 
@@ -160,7 +159,7 @@ footer {
   /* Bottom right text */
   .bottom-right {
     font-family: "Mrs Saint Delafield", serif;
-    font-size: 4.5vw;
+    font-size: max(50px, 5vw);
     position: absolute;
     top: 70%;
     left: 50%;
@@ -170,7 +169,7 @@ footer {
   /* Centered text */
   .centered {
     font-family: "Mrs Saint Delafield", serif;
-    font-size: 11.5vw;
+    font-size: max(90px, 12vw);
     position: absolute;
     top: 50%;
     left: 50%;
@@ -712,5 +711,3 @@ body {
     width: 100%;
   }
 }
-
-/*Gallery*/
